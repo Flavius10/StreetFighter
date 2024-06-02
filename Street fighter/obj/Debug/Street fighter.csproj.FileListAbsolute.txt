@@ -1,0 +1,20 @@
+C:\Folders\Info\C#\Proiecte personale\Street fighter\Street fighter\bin\Debug\Street fighter.exe.config
+C:\Folders\Info\C#\Proiecte personale\Street fighter\Street fighter\bin\Debug\Street fighter.exe
+C:\Folders\Info\C#\Proiecte personale\Street fighter\Street fighter\bin\Debug\Street fighter.pdb
+C:\Folders\Info\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street fighter.csproj.AssemblyReference.cache
+C:\Folders\Info\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street_fighter.Form1.resources
+C:\Folders\Info\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street_fighter.Properties.Resources.resources
+C:\Folders\Info\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street fighter.csproj.GenerateResource.cache
+C:\Folders\Info\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street fighter.csproj.CoreCompileInputs.cache
+C:\Folders\Info\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street fighter.exe
+C:\Folders\Info\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street fighter.pdb
+C:\Folders\Informatica\C#\Proiecte personale\Street fighter\Street fighter\bin\Debug\Street fighter.exe.config
+C:\Folders\Informatica\C#\Proiecte personale\Street fighter\Street fighter\bin\Debug\Street fighter.exe
+C:\Folders\Informatica\C#\Proiecte personale\Street fighter\Street fighter\bin\Debug\Street fighter.pdb
+C:\Folders\Informatica\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street fighter.csproj.AssemblyReference.cache
+C:\Folders\Informatica\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street_fighter.Form1.resources
+C:\Folders\Informatica\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street_fighter.Properties.Resources.resources
+C:\Folders\Informatica\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street fighter.csproj.GenerateResource.cache
+C:\Folders\Informatica\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street fighter.csproj.CoreCompileInputs.cache
+C:\Folders\Informatica\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street fighter.exe
+C:\Folders\Informatica\C#\Proiecte personale\Street fighter\Street fighter\obj\Debug\Street fighter.pdb

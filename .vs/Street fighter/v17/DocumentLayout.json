@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Folders\\Informatica\\C#\\Proiecte personale\\Street fighter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0AD011-1D35-4A66-B23F-BE5A76F23075}|Street fighter\\Street fighter.csproj|c:\\folders\\informatica\\c#\\proiecte personale\\street fighter\\street fighter\\street _fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0AD011-1D35-4A66-B23F-BE5A76F23075}|Street fighter\\Street fighter.csproj|solutionrelative:street fighter\\street _fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0AD011-1D35-4A66-B23F-BE5A76F23075}|Street fighter\\Street fighter.csproj|C:\\Folders\\Informatica\\C#\\Proiecte personale\\Street fighter\\street fighter\\street _fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E0AD011-1D35-4A66-B23F-BE5A76F23075}|Street fighter\\Street fighter.csproj|solutionrelative:street fighter\\street _fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Street _Fighter.cs",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\Proiecte personale\\Street fighter\\Street fighter\\Street _Fighter.cs",
+              "RelativeDocumentMoniker": "Street fighter\\Street _Fighter.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\Proiecte personale\\Street fighter\\Street fighter\\Street _Fighter.cs",
+              "RelativeToolTip": "Street fighter\\Street _Fighter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:43:09.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Street _Fighter.cs [Design]",
+              "DocumentMoniker": "C:\\Folders\\Informatica\\C#\\Proiecte personale\\Street fighter\\Street fighter\\Street _Fighter.cs",
+              "RelativeDocumentMoniker": "Street fighter\\Street _Fighter.cs",
+              "ToolTip": "C:\\Folders\\Informatica\\C#\\Proiecte personale\\Street fighter\\Street fighter\\Street _Fighter.cs [Design]",
+              "RelativeToolTip": "Street fighter\\Street _Fighter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:43:09.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
